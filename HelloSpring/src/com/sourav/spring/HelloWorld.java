@@ -8,6 +8,7 @@ public class HelloWorld {
 	   }
 
 	   public void getMessage(){
+		   //comment test
 	      System.out.println("Your Message : " + message);
 	   }
 }
