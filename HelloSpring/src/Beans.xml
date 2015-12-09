@@ -6,7 +6,7 @@
 
    <bean id="helloWorld" class="com.sourav.spring.HelloWorld" scope="singleton">
    <!--  the property name is the attribute of of the pojo class -->
-       <property name="message" value="Hello World!"/>
+       <property name="message" value="Hello World! test "/>
    </bean>
 
 </beans>
